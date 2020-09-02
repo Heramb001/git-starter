@@ -1,3 +1,5 @@
+### Note: *This repository 'git-starter' is created as part of HW1: Tool Setup for course CS625-Data Visualization to give an overview of git and github.*
+
 # Requirements
 
   * Python 3.7
